@@ -2,7 +2,7 @@
 
 Sito personale di studio per la patente di radioamatore: 31 capitoli (tecnica, procedure, regolamentazione), 57 laboratori interattivi, audio di ogni capitolo, quiz, appunti, mappe mentali e mappe concettuali.
 
-- **Online:** https://antonio1963.github.io/perseo/
+- **Online:** https://antonio1963.github.io/Perseo/
 - **Sul PC:** apri `index.html` con il browser (funziona anche senza Internet).
 
 I progressi (capitoli letti, appunti, quiz) restano salvati nel browser di chi usa il sito.
